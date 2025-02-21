@@ -4,7 +4,7 @@ draft = false
 image = "30e5ec8f1ec47882de36ee53e26fada9.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](30e5ec8f1ec47882de36ee53e26fada9.jpg)
 
 ## My Name
 
