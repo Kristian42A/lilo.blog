@@ -4,7 +4,7 @@ date = "2023-01-01"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = "tyrannosaurus-rex.jpeg"
+image = "download-4-.jpeg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
