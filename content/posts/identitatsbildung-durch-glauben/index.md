@@ -1,5 +1,5 @@
 +++
-title = "**Identitätsbildung durch Glauben**"
+title = "Identitätsbildung durch Glauben"
 date = "2025-02-28"
 draft = false
 pinned = false
