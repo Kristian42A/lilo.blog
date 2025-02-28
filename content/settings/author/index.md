@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Kristian Andrade"
-image = "/media/ee49004e-7b35-4625-9a89-f9680c55d602.jpeg"
+image = "/media/646c2a13-bd5f-4490-820f-496d9c152d52.jpeg"
 url = "/about/"
 +++
