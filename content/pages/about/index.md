@@ -4,7 +4,7 @@ draft = false
 image = "img_8468-1-.jpg"
 description = ""
 +++
-![]()
+![](img_8468-1-.jpg)
 
 ## Kristian Andrade
 
