@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Lilo", "Example"]
 image = "pexels-pixabay-257030-1-.jpg"
-description = ""
+description = "Welchen Einfluss hat Religion auf unser tägliches Leben und unsere Identität?"
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 {{<lead>}}
