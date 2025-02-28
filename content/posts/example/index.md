@@ -1,6 +1,6 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Identitätsbildung durch Glauben"
+date = "2025-03-01"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
