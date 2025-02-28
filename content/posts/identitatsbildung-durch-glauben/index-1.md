@@ -7,6 +7,8 @@ image = "pexels-pixabay-257030-1-.jpg"
 description = "Welchen Einfluss hat Religion auf unser tägliches Leben und unsere Identität?"
 footnotes = ""
 +++
+### *Religion spielt in der heutigen Gesellschaft eine große Rolle und beeinflusst Politik, Bildung, Gesetze usw. Aber meine Frage ist, was Religion für den einzelnen Menschen bedeutet. Auch für mich spielt das Christentum eine große Rolle bei der Persönlichkeit, aber wie denken andere darüber?*
+
 ![](16d1b992-2624-43b4-a1d4-fcaecdc7243d.jpg "Alesha - 18 Jahre Alt")
 
 **Inwiefern beeinflusst dein Glaube deine Entscheidungen im Alltag?**\
