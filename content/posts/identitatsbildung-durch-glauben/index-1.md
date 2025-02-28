@@ -12,8 +12,6 @@ footnotes = ""
 **Ich - Inwiefern beeinflusst dein Glaube deine Entscheidungen im Alltag?**\
 Für sie ist der Glaube die Grundlage ihrer täglichen Entscheidungen. Als Christin richtet sie ihr Handeln nach den Prinzipien der Bibel aus. Sie betet regelmäßig, geht jeden Sonntag in die Kirche und achtet bewusst darauf, dass ihre Entscheidungen mit ihrem Glauben übereinstimmen.
 
-``
-
 **Hat deine Religion Einfluss darauf, wie du dich selbst siehst?**\
 Ja, ihre Selbstwahrnehmung ist stark von ihrem Glauben geprägt. Die Bibel gibt ihr Orientierung darüber, wie ein Mensch sein sollte und welche Verhaltensweisen zu vermeiden sind. Sie bemüht sich, diese Werte in ihrem Leben umzusetzen und sich daran zu orientieren.
 
