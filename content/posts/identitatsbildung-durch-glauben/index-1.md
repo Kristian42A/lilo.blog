@@ -5,8 +5,10 @@ draft = false
 pinned = false
 image = "pexels-pixabay-257030-1-.jpg"
 description = "Welchen Einfluss hat Religion auf unser tägliches Leben und unsere Identität?"
-footnotes = ".."
+footnotes = ""
 +++
+![Ich habe an einem sehr schönen Tag mit Alesha gesprochen, die Sonne schien und der Nachmittag war ruhig. Sie ist eine sehr religiöse Person und strahlte vor Glück, als ich sie nach Religion fragte.](16d1b992-2624-43b4-a1d4-fcaecdc7243d.jpg "Alesha - 18 Jahre Alt")
+
 **Inwiefern beeinflusst dein Glaube deine Entscheidungen im Alltag?**\
 Für sie ist der Glaube die Grundlage ihrer täglichen Entscheidungen. Als Christin richtet sie ihr Handeln nach den Prinzipien der Bibel aus. Sie betet regelmäßig, geht jeden Sonntag in die Kirche und achtet bewusst darauf, dass ihre Entscheidungen mit ihrem Glauben übereinstimmen.
 
