@@ -1,10 +1,10 @@
 +++
-title = "About me"
+title = "Kristian A"
 draft = false
-image = "30e5ec8f1ec47882de36ee53e26fada9.jpg"
+image = "download-6-.jpeg"
 description = ""
 +++
-![](30e5ec8f1ec47882de36ee53e26fada9.jpg)
+![](download-6-.jpeg)
 
 ## My Name
 
