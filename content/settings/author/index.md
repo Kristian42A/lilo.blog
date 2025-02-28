@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/media/168a4c766ccbadb901bac9a1e7a4583b.jpg"
+name = "Kristian Andrade"
+image = "/media/ee49004e-7b35-4625-9a89-f9680c55d602.jpeg"
 url = "/about/"
 +++
