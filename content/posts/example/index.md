@@ -3,10 +3,10 @@ title = "Identitätsbildung durch Glauben"
 date = "2025-03-01"
 draft = false
 pinned = false
-tags = ["Lilo", "Example"]
+tags = ["Lilo"]
 image = "pexels-pixabay-257030-1-.jpg"
 description = "Welchen Einfluss hat Religion auf unser tägliches Leben und unsere Identität?"
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = ""
 +++
 ### *Religion spielt in der heutigen Gesellschaft eine große Rolle und beeinflusst Politik, Bildung, Gesetze usw. Aber meine Frage ist, was Religion für den einzelnen Menschen bedeutet. Auch für mich spielt das Christentum eine große Rolle bei der Persönlichkeit, aber wie denken andere darüber?*
 
