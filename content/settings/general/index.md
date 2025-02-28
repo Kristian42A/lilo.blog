@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Kris"
-description = "A Lifelong Journey"
-footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
+title = "Kristian Andrade"
+description = "Willkommen auf meiner Blog-Website"
+footerLeft = "Powered by  [Lilo.page](https://www.lilo.page)"
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
