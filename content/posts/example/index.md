@@ -4,8 +4,8 @@ date = "2025-03-01"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = "download-4-.jpeg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+image = "pexels-pixabay-257030-1-.jpg"
+description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 {{<lead>}}
