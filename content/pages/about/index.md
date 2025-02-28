@@ -10,4 +10,4 @@ description = ""
 
 kristian.andrade@stud.muristalden.ch
 
-Here should be some info about me...
+Hallo, mein Name ist Kristian und ich hoffe, Ihnen gefällt mein Blog.
